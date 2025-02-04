@@ -63,4 +63,9 @@ public abstract class Account implements IBaseRate
 			+"Baserate is: "+rate	
 				);
 	}
+	
+	public void vamsikrishnau() {
+		System.out.println("vamsikrishna_u");
+	}
+	
 }
