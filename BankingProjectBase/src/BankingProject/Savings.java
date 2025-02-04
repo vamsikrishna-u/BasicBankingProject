@@ -35,5 +35,6 @@ public class Savings extends Account{
 		 System.out.println("setting");
 	 }
 	
+	 public static int number=10;
 
 }
