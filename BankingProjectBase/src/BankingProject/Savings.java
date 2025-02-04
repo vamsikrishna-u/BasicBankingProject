@@ -30,6 +30,11 @@ public class Savings extends Account{
 		 System.out.println("safteyBoxnumber: "+safteyBoxnumber+"\nSafteyBoxPin: "+SafteyBoxPin);
 		 
 	 }
+	 
+	 public void set() {
+		 System.out.println("setting");
+	 }
 	
+	 public static int number=10;
 
 }
